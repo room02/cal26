@@ -9,49 +9,43 @@ X-WR-TIMEZONE:America/Chihuahua
 BEGIN:VEVENT
 UID:uacj-2026-01@room02
 DTSTART;VALUE=DATE:20260101
-SUMMARY:🚫Día inhábil - Año Nuevo
-END:VEVENT
-
-BEGIN:VEVENT
-UID:uacj-2026-01@room02
-DTSTART;VALUE=DATE:20260103
-SUMMARY:🚫PRUEBA
+SUMMARY:🚫Año Nuevo
 END:VEVENT
 
 BEGIN:VEVENT
 UID:uacj-2026-02@room02
 DTSTART;VALUE=DATE:20260202
-SUMMARY:🚫Día inhábil - Día de la Constitución
+SUMMARY:🚫Día de la Constitución
 END:VEVENT
 
 BEGIN:VEVENT
 UID:uacj-2026-03@room02
 DTSTART;VALUE=DATE:20260316
-SUMMARY:🚫Día inhábil - Natalicio de Benito Juárez
+SUMMARY:🚫Natalicio de Benito Juárez
 END:VEVENT
 
 BEGIN:VEVENT
 UID:uacj-2026-04@room02
 DTSTART;VALUE=DATE:20260501
-SUMMARY:🚫Día inhábil - Día del Trabajo
+SUMMARY:🚫Día del Trabajo
 END:VEVENT
 
 BEGIN:VEVENT
 UID:uacj-2026-04@room02
 DTSTART;VALUE=DATE:20260505
-SUMMARY:🚫Día inhábil - Batalla de Puebla
+SUMMARY:🚫Batalla de Puebla
 END:VEVENT
 
 BEGIN:VEVENT
 UID:uacj-2026-04@room02
 DTSTART;VALUE=DATE:20260515
-SUMMARY:🚫Día inhábil - Día del Maestro
+SUMMARY:🚫Día del Maestro
 END:VEVENT
 
 BEGIN:VEVENT
 UID:uacj-2026-04@room02
 DTSTART;VALUE=DATE:20260523
-SUMMARY:🚫Día inhábil - Día del Estudiante
+SUMMARY:🚫Día del Estudiante
 END:VEVENT
 
 BEGIN:VEVENT
@@ -63,25 +57,25 @@ END:VEVENT
 BEGIN:VEVENT
 UID:uacj-2026-05@room02
 DTSTART;VALUE=DATE:20260916
-SUMMARY:🚫Día inhábil - Día de la Independencia
+SUMMARY:🚫Día de la Independencia
 END:VEVENT
 
 BEGIN:VEVENT
 UID:uacj-2026-05@room02
 DTSTART;VALUE=DATE:20261022
-SUMMARY:🚫Día inhábil - Académico
+SUMMARY:🚫Académico
 END:VEVENT
 
 BEGIN:VEVENT
 UID:uacj-2026-06@room02
 DTSTART;VALUE=DATE:20261102
-SUMMARY:🚫Día inhábil - Día de Muertos
+SUMMARY:🚫Día de Muertos
 END:VEVENT
 
 BEGIN:VEVENT
 UID:uacj-2026-07@room02
 DTSTART;VALUE=DATE:20261116
-SUMMARY:🚫Día inhábil - Conmemoriación de la Revolución Mexicana
+SUMMARY:🚫Conmemoriación de la Revolución Mexicana
 END:VEVENT
 
 BEGIN:VEVENT
