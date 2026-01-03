@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UACJ Calendario Escolar 2026
+X-WR-TIMEZONE:America/Chihuahua
+
+### Actividades administrativas
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260618
+SUMMARY:Actividades administrativas (enero–junio 2026)
+DESCRIPTION:Periodo de actividades administrativas UACJ 2026. :contentReference[oaicite:1]{index=1}
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20261217
+SUMMARY:Actividades administrativas (julio–diciembre 2026)
+DESCRIPTION:Periodo de actividades administrativas UACJ 2026. :contentReference[oaicite:2]{index=2}
+END:VEVENT
+
+### Períodos de clases (semestre enero–mayo)
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260523
+SUMMARY:Clases semestre enero-mayo 2026
+DESCRIPTION:Periodo de clases del semestre enero-mayo 2026. :contentReference[oaicite:3]{index=3}
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260530
+SUMMARY:Exámenes finales semestre enero-mayo 2026
+DESCRIPTION:Periodo de exámenes finales (enero-mayo). :contentReference[oaicite:4]{index=4}
+END:VEVENT
+
+### Días inhábiles / Feriados
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260101
+SUMMARY:Día inhábil: Año Nuevo
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260206
+SUMMARY:Día inhábil: Constitucional
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+SUMMARY:Día inhábil: Natalicio de Benito Juárez
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+SUMMARY:Día inhábil: Día del Trabajo
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260916
+SUMMARY:Día inhábil: Día de la Independencia
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261102
+SUMMARY:Día inhábil: Día de Muertos
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261120
+SUMMARY:Día inhábil: Día de la Revolución Mexicana
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261225
+SUMMARY:Día inhábil: Navidad
+END:VEVENT
+
+### Vacaciones
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260723
+SUMMARY:Vacaciones de verano 2026
+DESCRIPTION:Período de vacaciones entre semestres. :contentReference[oaicite:5]{index=5}
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20270108
+SUMMARY:Vacaciones de invierno 2026-2027
+DESCRIPTION:Vacaciones de fin de año. :contentReference[oaicite:6]{index=6}
+END:VEVENT
+
+END:VCALENDAR
